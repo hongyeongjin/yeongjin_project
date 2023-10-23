@@ -7,7 +7,7 @@
 
 .search {
     font-size: 25px;
-    margin: 20px 0 20px 0;
+    margin: 20px 0 40px 0;
 
 
     display: flex;
@@ -27,7 +27,7 @@
     padding: 10px;
 }
 
-.cardlist {
+.cardList {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: center; 
